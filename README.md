@@ -17,7 +17,7 @@ A simple weather app built with React, TypeScript, and OpenWeatherMap API.
   
 ## Installation  
   
-1. Clone the repository: `git clone https://github.com/your-username/weather-app.git`  
+1. Clone the repository: `git clone https://github.com/rini-narayanan/weather-app.git`  
 2. Install dependencies: `npm install`  
 3. Start the app: `npm start` 
 4. Open the app in your browser: `http://localhost:3000`  
