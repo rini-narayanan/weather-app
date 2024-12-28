@@ -17,11 +17,11 @@ body {
 
 .error-message {  
   text-align: center;  
-  color: #f44336; /* Red color */  
+  color: #f44336;
   padding: 20px;  
   border: 1px solid #f44336;  
   border-radius: 10px;  
-  background-color: #ffebee; /* Light red background */  
+  background-color: #ffebee;
 }  
   
 .error-message p {  

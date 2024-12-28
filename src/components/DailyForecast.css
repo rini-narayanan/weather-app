@@ -107,16 +107,3 @@
     outline: none;  
     box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);  
   }
-  .error-message {  
-    text-align: center;  
-    color: #f44336; /* Red color */  
-    padding: 20px;  
-    border: 1px solid #f44336;  
-    border-radius: 10px;  
-    background-color: #ffebee; /* Light red background */  
-  }  
-    
-  .error-message p {  
-    font-size: 18px;  
-    margin-bottom: 10px;  
-  }
