@@ -1,0 +1,60 @@
+.weekly-forecast {  
+  background-color: #2c3e50;  
+  padding: 20px;  
+  border: 1px solid #ddd;  
+  box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);  
+} 
+
+.weekly-forecast .day-forecast {  
+  margin: 15px;  
+  padding: 20px;  
+  background-color: #fff;  
+  border: 1px solid #ddd;  
+  border-radius: 10px;  
+  box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);  
+  display: flex;  
+  flex-direction: row;  
+  justify-content: space-between;  
+  align-items: center;  
+}  
+  
+.weekly-forecast .day-forecast .date {  
+  width: 30%;  
+  display: flex;  
+  flex-direction: column;  
+  align-items: flex-start;  
+}  
+  
+.weekly-forecast .day-forecast .temp {  
+  width: 40%;  
+  display: flex;  
+  flex-direction: column;  
+  align-items: center;  
+}  
+  
+.weekly-forecast .day-forecast .wind {  
+  width: 30%;  
+  display: flex;  
+  flex-direction: column;  
+  align-items: flex-end;  
+}  
+  
+.weekly-forecast .daily-forecast p {  
+  font-size: 18px;  
+  margin-bottom: 10px;  
+  color: #333;  
+}  
+  
+.weekly-forecast .day-forecast img {  
+  width: 50px;  
+  height: 50px;  
+  margin: 10px 0;  
+}  
+  
+.weekly-forecast .day-forecast .morning-temp {  
+  color: #03A9F4;
+}  
+  
+.weekly-forecast .day-forecast .night-temp {  
+  color: #8B9467; 
+}

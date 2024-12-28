@@ -1,0 +1,66 @@
+.common-header {  
+    padding: 5px 20px;  
+    border-bottom: 1px solid #ddd;  
+    background-color: #2c3e50;
+    padding: 20px;
+    border: 1px solid #ddd;
+    color: #fff
+  }  
+    
+  .common-header .header {  
+    display: flex;  
+    justify-content: space-between;  
+    align-items: center; 
+  }  
+    
+  .common-header .header h2 {  
+    font-size: 28px;  
+    font-weight: bold;  
+    margin: 0;  
+  }  
+    
+  .common-header .header p {  
+    font-size: 20px;  
+    margin: 0;  
+  }  
+    
+  .common-header .main-display {  
+    display: flex;  
+    flex-direction: column;  
+    align-items: center;  
+    margin-bottom: 0px;  
+  }  
+    
+  .common-header .main-display p {  
+    font-size: 18px;  
+    margin: 6px 0px;  
+  }  
+
+  .common-header .main-display img {  
+    width: 10%; 
+  }  
+    
+  .common-header .tab-navigation {  
+    display: flex;  
+    justify-content: space-between;  
+    align-items: center;  
+  }  
+    
+  .common-header .tab-navigation button {  
+    padding: 10px 20px;  
+    border: none;  
+    border-radius: 5px;  
+    background-color: #03A9F4; 
+    cursor: pointer;  
+  }  
+    
+  .common-header .tab-navigation button:hover {  
+    background-color: #0288D1 ;   
+  }  
+    
+  .common-header .tab-navigation button.active {  
+    background-color: #ccc;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);  
+  }  
+    
+ 
